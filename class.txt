@@ -1,6 +1,6 @@
-Crimson
-Orange
+orange 
 blue
+black
 Cyan
 Yellow
 Charcoal
